@@ -55,6 +55,9 @@ class AddContact extends Component {
                         />
                     </div>
                     <button className="ui primary button visible">Add</button>
+                    <Link to="/">
+                        <button className="ui primary button visible">Back Home</button>
+                    </Link>
                 </form>
             </div>
         );

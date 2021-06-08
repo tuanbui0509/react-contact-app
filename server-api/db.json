@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "beb01491-1de2-449b-9037-e7bfec23cd54",
+      "name": "Đoàn Ngọc Trí",
+      "email": "doangngoctri123@gmail.com"
+    },
+    {
+      "id": "0513046c-9544-441b-8dd6-1d50e9383227",
+      "name": "Bùi Ngọc Tuấn",
+      "email": "tuanbui0509@gmail.com"
+    },
+    {
+      "id": "8fd196b7-394b-46ac-8fe5-f8b7da7c1440",
+      "name": "Nguyên Tú",
+      "email": "nguyentu@gmail.com"
+    }
+  ]
+}
