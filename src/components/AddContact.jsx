@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
 
 class AddContact extends Component {
     state = {
@@ -16,6 +17,8 @@ class AddContact extends Component {
             name: '',
             email: ''
         })
+
+        this.props.history.push('/');
     }
     onChange = (e) => {
         let target = e.target;
