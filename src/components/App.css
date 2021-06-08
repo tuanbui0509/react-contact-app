@@ -41,16 +41,26 @@ h1.ui.center.header {
   margin-top: 2em;
 }
 
-i.icon{
+td i.icon{
   cursor: pointer;
-  font-size: 30px;
+  font-size: 25px;
 
 }
 
 @media (max-width: 768px) {
-  i.icon{
+  td i.icon{
     cursor: pointer;
     font-size: 20px;
     margin-top: 20px;
   }
+}
+
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+.item-search{
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
 }
